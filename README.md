@@ -1,0 +1,3 @@
+# CS algorithms' snippets.
+mainly written with c++ and Python, sometimes CLisp, Ruby etc...
+
